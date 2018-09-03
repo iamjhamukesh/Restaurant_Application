@@ -1,6 +1,6 @@
 # Restaurant_Application
 Restaurant System using Java Swings. The project was implemented in First Year of Engineering by: </br>
-1)Mukesh Jha</br>
+1)Mukesh Jha(Myself)</br>
 2)Rahil Sheth</br>
 3)Madhur Kabra</br>
 4)Mohit Thakkar</br>
